@@ -1,4 +1,4 @@
-# Análise Exploratória de Dados — Credit Card Fraud Detection
+# Análise Exploratória de Dados - Credit Card Fraud Detection
 
 ## Descrição
 
@@ -6,7 +6,7 @@ Análise exploratória de dados (EDA) sobre transações de cartão de crédito,
 
 ## Fonte dos dados
 
-[Credit Card Fraud Detection (Kaggle/ULB)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) — 284.807 transações de cartão de crédito de titulares europeus, registradas ao longo de 2 dias em setembro de 2013.
+[Credit Card Fraud Detection (Kaggle/ULB)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) - 284.807 transações de cartão de crédito de titulares europeus, registradas ao longo de 2 dias em setembro de 2013.
 
 ## Ferramentas utilizadas
 
@@ -18,11 +18,11 @@ Análise exploratória de dados (EDA) sobre transações de cartão de crédito,
 
 ## Etapas do projeto
 
-1. **Coleta de dados** — carregamento do dataset público via Pandas.
-2. **Inspeção** — verificação de estrutura, tipos de dados, valores nulos e duplicados.
-3. **Tratamento de dados** — investigação e remoção de 1.081 linhas duplicadas, com verificação prévia da taxa de fraude nesse subconjunto para garantir que nenhum padrão relevante fosse descartado sem análise.
-4. **Análise exploratória** — distribuições de valor (Amount) e tempo (Time), comparação entre transações fraudulentas e não fraudulentas, e matriz de correlação.
-5. **Conclusão** — síntese dos principais achados.
+1. **Coleta de dados** - carregamento do dataset público via Pandas.
+2. **Inspeção** - verificação de estrutura, tipos de dados, valores nulos e duplicados.
+3. **Tratamento de dados** - investigação e remoção de 1.081 linhas duplicadas, com verificação prévia da taxa de fraude nesse subconjunto para garantir que nenhum padrão relevante fosse descartado sem análise.
+4. **Análise exploratória** - distribuições de valor (Amount) e tempo (Time), comparação entre transações fraudulentas e não fraudulentas, e matriz de correlação.
+5. **Conclusão** - síntese dos principais achados.
 
 ## Principais achados
 
